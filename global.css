@@ -1,8 +1,5 @@
-/* styles.css */
-body {
+html, body {
     font-family: Arial, 'Courier New', Courier, monospace;
     background-color: #313030;
-  }
-  h1 {
-    color: #ffffff;
+    color: #fff;
   }
