@@ -1,9 +1,8 @@
 /* styles.css */
 body {
-  text-decoration-color: white;
     font-family: Arial, 'Courier New', Courier, monospace;
     background-color: #313030;
   }
-  h1 {
-    color: #000000;
+  head {
+    color: #ffffff;
   }
